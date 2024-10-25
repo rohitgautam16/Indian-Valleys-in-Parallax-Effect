@@ -100,10 +100,13 @@ body {
     z-index: -1;
 }
 
+h1 {
+    margin-bottom: 15rem;
+}
+
 .title {
     font-size: 7rem;
     color: white;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     letter-spacing: 4px;
     text-align: center;
     transform: translateZ(-5px) scale(1.5);
